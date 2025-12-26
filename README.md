@@ -1,2 +1,7 @@
-# FortniteBuildsArchive
-Biggest Fortnite Builds Archive. It contains builds from Fortnite Online Testing to Chapter 7
+# Fortnite Builds Archive
+
+### WEBSITE 
+https://remake-nu.vercel.app/
+
+### DISCORD SERVER
+https://discord.gg/N48cw98P86
